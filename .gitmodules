@@ -1,0 +1,3 @@
+[submodule "cross-compile-windows-cmake"]
+	path = cross-compile-windows-cmake
+	url = git@github.com:kisv701/cross-compile-windows-cmake.git
